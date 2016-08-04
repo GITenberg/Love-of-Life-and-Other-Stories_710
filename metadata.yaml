@@ -1,0 +1,38 @@
+_repo: Love-of-Life-and-Other-Stories_710
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Bull, Charles Livingston
+    birthdate: 1874
+    deathdate: 1932
+    gutenberg_agent_id: '9742'
+    url: http://www.gutenberg.org/2009/agents/9742
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: ''
+gutenberg_issued: '1996-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '710'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+- !lcsh 'Adventure stories, American'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Love of life -- A day's lodging -- The white man's way -- The story
+  of Keesh -- The unexpected -- Brown Wolf -- The sun-dog trail -- Negore, the coward.
+title: Love of Life, and Other Stories
+url: http://www.gutenberg.org/ebooks/710
